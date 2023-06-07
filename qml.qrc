@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Krect.qml</file>
+        <file>Rain.qml</file>
+    </qresource>
+</RCC>
